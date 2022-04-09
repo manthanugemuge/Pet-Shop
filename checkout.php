@@ -39,7 +39,6 @@ $total = 0;
         </div>
     </div>
 </section>
-
 <script>
 paypal.Button.render({
     env: 'sandbox', // change for production if app is live,

@@ -26,7 +26,6 @@ function validate_image($file){
 		return base_url.'dist/img/no-image-available.png';
 	}
 }
-
 function isMobileDevice(){
     $aMobileUA = array(
         '/iphone/i' => 'iPhone', 
