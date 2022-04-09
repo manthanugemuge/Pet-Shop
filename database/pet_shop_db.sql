@@ -194,6 +194,7 @@ INSERT INTO `products` (`id`, `category_id`, `sub_category_id`, `product_name`, 
 
 -- --------------------------------------------------------
 
+
 --
 -- Table structure for table `sales`
 --
