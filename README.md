@@ -16,8 +16,7 @@ Hello there, I'm Manthan Ugemuge and I made this Pet Shop Website.
 <a target="_blank" href="https://www.w3schools.com/css/default.asp"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img></a>
 <a target="_blank" href="https://www.w3schools.com/js/default.asp"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img></a>
 <a target="_blank" href="https://www.w3schools.com/php/default.asp"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img></a>
-<a target="_blank" href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-"></img></a>
+<a target="_blank" href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></img></a>
 
 ## Software Requirements:
 
