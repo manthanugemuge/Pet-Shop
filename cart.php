@@ -59,6 +59,7 @@
         </div>
     </div>
 </section>
+
 <script>
     function calc_total(){
         var total  = 0
