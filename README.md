@@ -1,4 +1,4 @@
-# Pet-Shop
+# Pet Shop Website
 
 A Simple Pet Shop Website using PHP, SQl, HTML, CSS & JS. </br>
 Hello there, I'm Manthan Ugemuge and I made this Pet Shop Website.
