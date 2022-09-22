@@ -6,9 +6,9 @@ Hello there, I'm Manthan Ugemuge and I made this Pet Shop Website.
 - 🌐 This Website is made with `PHP`, `SQL`, `Html`, `CSS` & `Javascript`. 
 - It contains a `Homepage` with with different categories for buying gfor pet and much more.
 - It contains `NavBar`,`MenuBar`,`LoginForm`,`Cart` & `Checkout` as well.
-- It has different modules in overall page from `Buy`,`Food`,`Accesories`,`Breed`,`LoginForm` ,`Registration` & ' Admin Pannel too'.
+- It has different modules in overall page from `Buy`,`Food`,`Accesories`,`Breed`,`Login Form` ,`Registration` & ' Admin Pannel too'.
 - Basic `Html` & `CSS` plays an important role here  making whole website more attractive and responsive.
-- Different packages are included to make website user friendly and more responsive towards making their buyinhg experience more comfortable, luxurious and easy.
+- Different packages are included to make website user friendly and more responsive towards making their buying experience more comfortable, luxurious and easy.
 -  A Navigation Scroll Bar is added in admin page which will be helpful seeing `Images throughout Web Page` & `Other Categories`. 
 
 ## Tech Stacks Used :
